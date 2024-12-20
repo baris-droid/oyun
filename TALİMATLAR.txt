@@ -1,5 +1,6 @@
 ÖNEMLİ!!
 ESKİ DOSYALARI BAŞKA BİR YERDE KOPYALA DURSUN BU EĞER SORUN ÇIKARTIRSA HEMEN ESKİSİNE GERİ DÖNEBİLMEN İÇİN. YANİ ÖNCEKİNİ YEDEKLEMEDEN KOPYALAMA.
+Şarkı yok internetten izleyip şarkının nasıl konulduğuna bakabilirsin.
 
 1. Oyun menünün çalışması için;
 -(scene olarak MENU scane iken yapılacak.) Unity üst barından "FILE"a tıkla. Ordan "Build Profiles"a tıkla. Açılan sayfada soldan "Scane List"e tıkla. "Add Open Scenes"e bas.
